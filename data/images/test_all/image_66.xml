@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11 (2019-11-2 &#19979;&#21320; 12-08-20)</folder>
+	<filename>image_66.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\image_66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eggs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>67</ymin>
+			<xmax>200</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>
