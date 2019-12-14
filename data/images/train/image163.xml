@@ -1,0 +1,26 @@
+<annotation>
+	<folder>egg_photos</folder>
+	<filename>image163.jpg</filename>
+	<path>C:\Users\user\Google Drive (jacklee860921@gapp.nthu.edu.tw)\egg_photos\image163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eggs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>27</ymin>
+			<xmax>367</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>
